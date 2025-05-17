@@ -9,6 +9,8 @@ Text Generation Models have various applications, such as content creation, chat
 5. Choose a deep neural network architecture to handle sequences for text generation.
 6. Frame the problem as a sequence modelling task where the model learns to predict the next words in a sequence.
 7. Use your text data to train the model.
+<br>
+<br>
 For this task, we can use the Tiny Shakespeare dataset because of two reasons:
 1. It’s available in the format of dialogues, so you will learn how to generate text in the form of dialogues.
 2. Usually, we need huge textual datasets for building text generation models. The Tiny Shakespeare dataset is already available in the tensorflow datasets, so we don’t need to download any dataset externally.
