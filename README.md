@@ -12,8 +12,10 @@ Text Generation Models have various applications, such as content creation, chat
 <br>
 <br>
 For this task, we can use the Tiny Shakespeare dataset because of two reasons:
+<br>
 1. It’s available in the format of dialogues, so you will learn how to generate text in the form of dialogues.
-2. Usually, we need huge textual datasets for building text generation models. The Tiny Shakespeare dataset is already available in the tensorflow datasets, so we don’t need to download any dataset externally.
+<br>
+3. Usually, we need huge textual datasets for building text generation models. The Tiny Shakespeare dataset is already available in the tensorflow datasets, so we don’t need to download any dataset externally.
 
 # Features
 tiny_shakespeare dataset
